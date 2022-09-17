@@ -1,0 +1,6 @@
+debug.log
+popo.log
+*.log
+debug.py
+errors.log
+logs\
